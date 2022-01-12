@@ -12,11 +12,11 @@ When getting to the index page for the first time, the user will be prompted to 
 # Features
 For simple users:
 - see location of your server, and real-time info about it on a Google map
-- see data history of your server graphically and in a table, on the period choosen
+- see data history of your server graphically and in a table, on the period choosen (from last minute, last hour, last 7 days, last 30 days and last 12 months)
 - change your login password
 
 For admin:
 - see location of all registered servers, and real-time info about them on a Google map
-- see data history of all servers in a table, on the period choosen
+- see data history of all servers in a table, on the period choosen (from last minute, last hour, last 7 days, last 30 days and last 12 months)
 - change your login password
 - register new users/delete existing users
